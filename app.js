@@ -1,7 +1,7 @@
 function daysInMonth(month) {
 	var days = 31;
 	
-	var sentence = function () {
+	var sentence = function() {
 		console.log('There are ' + days + ' days in the month of ' + month);
 }
 	switch(month) {
